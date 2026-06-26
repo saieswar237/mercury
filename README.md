@@ -178,11 +178,3 @@ License
 Mercury is licensed under Apache-2.0. See LICENSE for details.
 
 Stay safe! ❤️
-
-
-### The Final Push
-Once you have pasted and saved that file, go back to your terminal and run these commands to update your Pull Request:
-
-1. Stage both the `app.html` file (which we missed last time) and the updated `README.md`:
-   ```bash
-   git add mercury_app/templates/app.html README.md
